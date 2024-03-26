@@ -59,6 +59,9 @@ ul{
 .bg-black{
 	background-color: black;
 }
+.bg-white{
+	background-color: white;
+}
 .bg-primary-blue{
 	background-color: var(--primary-blue);
 }
@@ -78,12 +81,18 @@ ul{
 .color-light-gray{
 	color: var(--light-gray);
 }
+.color-primary-blue{
+	color: var(--primary-blue);
+}
 .text-secondary-blue{
 	color: var(--secondary-blue);
 }
 
 .border-radius-full{
 	border-radius: 100%;	
+}
+.border-radius-10{
+	border-radius: 10px;
 }
 .border-radius-20{
 	border-radius: 20px;
@@ -136,6 +145,9 @@ ul{
 .justify-between{
 	justify-content: space-between;
 }
+.justify-end{
+	justify-content: end;
+}
 
 .margin-auto{
 	margin: auto;
@@ -149,9 +161,11 @@ ul{
 .margin-right-5{
 	margin-right: 5px;
 }
-
 .margin-right-10{
 	margin-right: 10px;
+}
+.margin-left-5{
+	margin-left: 5px;
 }
 .margin-top-10{
 	margin-top: 10px;
