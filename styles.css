@@ -50,6 +50,9 @@ ul{
 	box-shadow: 0px 8px 13px -6px rgba(0,0,0,1.1);
 }
 
+.bg-bolor-unset{
+	background-color: unset;
+}
 .bg-cover{
 	background-size: cover;
 }
@@ -170,11 +173,17 @@ ul{
 .margin-top-10{
 	margin-top: 10px;
 }
+.margin-top-5{
+	margin-top: 5px;
+}
 .margin-bottom-10{
 	margin-bottom: 10px;
 }
 .margin-block-10{
 	margin-block: 10px;
+}
+.margin-y-5{
+	margin-block: 5px;
 }
 
 .padding-5{
