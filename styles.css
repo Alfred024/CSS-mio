@@ -6,6 +6,8 @@
 :root{
 	--primary-blue: #1B396A;
 	--secondary-blue: #405372;
+	--primary-orange: #FF9800;
+	--secondary-orange: #FFC470;
 	--light-gray: #f0efef;
 	--cool-gray: #807E82;
 }
@@ -86,6 +88,12 @@ ul{
 .bg-secondary-blue{
 	background-color: var(--secondary-blue);
 }
+.bg-primary-orange{
+	background-color: var(--primary-orange);
+}
+.bg-secondary-orange{
+	background-color: var(--secondary-orange);
+}
 .bg-light-gray{
 	background-color: var(--light-gray);
 }
@@ -104,6 +112,12 @@ ul{
 }
 .text-secondary-blue{
 	color: var(--secondary-blue);
+}
+.color-primary-blue{
+	color: var(--primary-orange);
+}
+.text-secondary-blue{
+	color: var(--secondary-orange);
 }
 
 .border-radius-full{
