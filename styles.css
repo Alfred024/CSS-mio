@@ -33,6 +33,18 @@ ul{
 .absolute{
 	position: absolute;
 }
+.bottom-0{
+	bottom: 0;
+}
+.top-0{
+	top: 0;
+}
+.left-0{
+	left: 0;
+}
+.right-0{
+	right: 0;
+}
 .relative{
 	position: relative;
 }
@@ -167,6 +179,9 @@ ul{
 .margin-auto{
 	margin: auto;
 }
+.margin-y-auto{
+	margin-block: auto;
+}
 .margin{
 	margin: 10px;
 }
@@ -206,6 +221,9 @@ ul{
 }
 .padding-20{
 	padding: 20px;
+}
+.padding-x-10{
+	padding: 0px 10px;
 }
 
 .text-align-center{
@@ -255,6 +273,3 @@ ul{
 .z-index-10{
 	z-index: 10;
 }
-
-
-
