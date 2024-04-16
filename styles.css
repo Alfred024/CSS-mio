@@ -113,10 +113,10 @@ ul{
 .text-secondary-blue{
 	color: var(--secondary-blue);
 }
-.color-primary-blue{
+.color-primary-orange{
 	color: var(--primary-orange);
 }
-.text-secondary-blue{
+.text-secondary-orange{
 	color: var(--secondary-orange);
 }
 
