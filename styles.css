@@ -8,6 +8,8 @@
 	--secondary-blue: #405372;
 	--primary-orange: #FF9800;
 	--secondary-orange: #FFC470;
+	--primary-purple: #6f3181;
+	--secondary-purple: #ba8ec7;
 	--light-gray: #f0efef;
 	--cool-gray: #807E82;
 }
@@ -87,6 +89,12 @@ ul{
 }
 .bg-secondary-blue{
 	background-color: var(--secondary-blue);
+}
+.bg-primary-purple{
+	background-color: var(--primary-purple);
+}
+.bg-secondary-purple{
+	background-color: var(--secondary-purple);
 }
 .bg-primary-orange{
 	background-color: var(--primary-orange);
